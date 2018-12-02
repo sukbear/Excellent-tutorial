@@ -2,3 +2,5 @@
 1、Some Skills
 # dubbo
 1、https://blog.csdn.net/uniqueweimeijun/article/details/79896551
+# git
+1、https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247485230&idx=1&sn=005c0e1fbefd5fab4823c408e3ae4b46&chksm=972ad654a05d5f42a155663adf806f0a2e95a81a44f0740e93581787ed8be73c056bc924f7f0&mpshare=1&scene=23&srcid=1128QfjQLUs977k7cNVtUXRS#rd
