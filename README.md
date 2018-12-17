@@ -2,6 +2,7 @@
 1、Some Skills
 # java8
 	1、函数接口 https://www.cnblogs.com/yuanbing1226/p/8994140.html
+	2、stream  https://www.cnblogs.com/snowInPluto/p/5981400.html
 2、stream 
 # 面试Baidu问题
 	http://www.importnew.com/27326.html
